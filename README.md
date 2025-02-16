@@ -11,16 +11,7 @@ When I’m not coding, you can find me writing blogging or probably building som
 ---
 
 ### 📈 **GitHub Stats**
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=antcompile&show_icons=true&theme=dracula" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=antcompile&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=antcompile&show_icons=true&theme=dracula" />
 
 ---
 
