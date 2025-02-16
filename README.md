@@ -22,9 +22,6 @@ When I’m not coding, you can find me writing blogging or probably building som
   </tr>
 </table>
 
-📊 **Most Used Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antcompile&layout=compact&theme=dracula)
-
 ---
 
 ### 🎯 **Fun Stats & Badges**
