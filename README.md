@@ -1,7 +1,7 @@
 ### 👋 I'm Anthony
 
 I'm Anthony, a full-time software engineer. My work is mostly backend, primarily with C#, Kotlin and Go. I enjoy working on observability in distributed systems among other things.
-When I’m not coding, you can find me writing blogging or probably building something stupid.  
+When I’m not working, you can find me writing blogging or probably building something stupid.  
 
 💡 **Check out my work:**  
 <!-- - 📺 [YouTube](https://www.youtube.com/c/your-channel)   -->
